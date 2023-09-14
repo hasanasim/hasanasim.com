@@ -1,12 +1,11 @@
 baseurl: "/"
 languageCode: "en-gb"
-title: "Hasan Asim's blog."
+title: "Hasan Asim"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""
-ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", ]
 footnotereturnlinkcontents: "↩"
-
 permalinks:
   note: "/note/:year/:month/:day/:slug/"
   post: "/post/:year/:month/:day/:slug/"
@@ -35,7 +34,9 @@ params:
   [LinkedIn](https://www.linkedin.com/in/hasanasim/) |
   [Goodreads](https://www.goodreads.com/user/show/118638265-hasan-asim) |
   [Facebook](https://www.facebook.com/hasanasim134) |
-  [Spotify](https://open.spotify.com/user/hasan.asim134?si=fd24d1778b054c6f&nd=1)
+  [Spotify](https://open.spotify.com/user/hasan.asim134?si=fd24d1778b054c6f&nd=1) |
+  [Leave me anonymous feedback](https://www.admonymous.co/hasanasim)
+
    <br> &copy; Hasan Asim {Year}
   "
 
