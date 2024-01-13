@@ -2,7 +2,7 @@
 title: Home
 ---
 
-<img src="https://media.licdn.com/dms/image/C4E03AQEmX0-rRWBK-g/profile-displayphoto-shrink_400_400/0/1633388233534?e=1701302400&v=beta&t=mDAwcco0aeQBUtHROLxkxLjE3GR32Jh19kARqYk9zFE" style="max-width:15%;min-width:40px;float:right;"/>
+<img src="/headshot.jpeg" style="max-width:15%;min-width:40px;float:right;"/>
 
 # Hasan Asim
 
